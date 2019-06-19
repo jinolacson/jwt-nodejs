@@ -25,7 +25,7 @@ app.post("/login", (req, res) => {
    */
   const users = [
     {id: 1, username: "jino", password: "jino123"},
-    {id: 2, username: "aodhan", password: "aodhan123"}
+    {id: 2, username: "cute", password: "cute123"}
   ];
 
   /**

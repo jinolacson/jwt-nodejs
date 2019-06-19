@@ -31,5 +31,7 @@ node verify-token.js
 
 ## Output using `Advanced REST client`
 ![Provide token with username and password](/images-output/provide-token.png)
+
 ![Unauthorized if no token provided](/images-output/verify-token-no-token-provided.png)
-![Authorized users](/images-output/verify-token-authorized-.png)
+
+![Authorized users](/images-output/verify-token-authorized.png)
